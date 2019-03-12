@@ -1,1 +1,1 @@
-merge conflict line.
+merge conflict line. (edited on branch to create conflict)
