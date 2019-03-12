@@ -1,1 +1,1 @@
-merge conflict line. (Added on master)
+merge conflict line.
