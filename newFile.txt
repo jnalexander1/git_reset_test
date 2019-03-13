@@ -1,1 +1,1 @@
-amended newFile.txt from local fifth time.
+amended newFile.txt from github third timesome text.
