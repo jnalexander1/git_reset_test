@@ -1,1 +1,1 @@
-some text - amended from github second time.
+amended newFile.txt from github third timesome text.
