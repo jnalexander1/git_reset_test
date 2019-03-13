@@ -1,1 +1,1 @@
-amended newFile.txt from github six.
+amended newFile.txt from github seven.
