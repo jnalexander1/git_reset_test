@@ -1,1 +1,1 @@
-amended newFile.txt from github eight.
+rebase newFile.txt from github eight.
